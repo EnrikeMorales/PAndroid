@@ -23,4 +23,7 @@ public class ConsultaActivity extends AppCompatActivity {
         i.putExtra("listaContactos", Contact_aux);
         startActivity(i);
     }
+    private void actualizarLista(){
+        
+    }
 }
